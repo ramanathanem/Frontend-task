@@ -1,0 +1,17 @@
+.admin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.create{
+   margin-left: 1200px;
+   background-color: #008CBA;
+   border: #008CBA;
+   border-radius: 20px;
+   font-size: 20px;
+   color: #FFF;
+   font-weight: 500;
+}
